@@ -98,6 +98,17 @@ Good candidates include cross-service flows, non-obvious boundaries, recurring w
 
 Do not capture temporary debugging findings, obvious implementation details, duplicated canonical information, or speculation.
 
+## Context hygiene checklist
+
+Periodically check:
+
+- Is AGENTS.md still small?
+- Are all documented paths valid?
+- Are golden examples still canonical?
+- Are there obsolete instructions?
+- Are rules duplicated?
+- Is service-specific knowledge leaking into global context?
+
 ## Tool compatibility
 
 `AGENTS.md` is the canonical template file here. If a tool expects another filename or format, adapt or generate that tool-specific entry point from the same source instead of maintaining conflicting copies.
