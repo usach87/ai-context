@@ -21,8 +21,7 @@ Copy into your repository:
 ```text
 AGENTS.md
 docs/
-skills/
-# optional
+skills/                  # optional
 AI_CONTEXT_CHECKLIST.md
 ```
 
