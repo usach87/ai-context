@@ -1,6 +1,6 @@
 # AI Context
 
-> Give AI less context. Give it better context.
+[Читать на русском](README.ru.md)
 
 A lightweight, tool-agnostic template for organizing codebases so AI coding agents can find the **minimum context required for a task**.
 
